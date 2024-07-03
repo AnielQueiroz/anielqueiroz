@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou Aniel 👋🏼
 
-<!--
-**AnielQueiroz/anielqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniel-queiroz-87a220186/)
 
-Here are some ideas to get you started:
+![Status do GitHub de Aniel:](https://github-readme-stats.vercel.app/api?username=pedroved&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias 📊 
+
+![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java.js&logoColor=red)
+
+### Linguagens de Programação no GitHub
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marceleoliveira&layout=compact)
