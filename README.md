@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnielQueiroz&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
@@ -9,44 +9,22 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
 ### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
 
 
 ### Working on: 🚀
 
-- Learning [GO](https://github.com/sammorozov/go_basics_study)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+- Learning [NextJS](https://github.com/AnielQueiroz/fsw-trips)
+- Learning [Spring Boot](https://github.com/AnielQueiroz/rest-with-spring-boot-and-java-erudio) 
 
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Python3 | C | JS | Solidity | GO |
+| JS | Java | Python3 | PHP |
 |----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/>
 
   
 
