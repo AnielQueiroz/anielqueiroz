@@ -52,9 +52,9 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ### OS:
 
-| Ubuntu | Windows |
+| Windows | Ubuntu |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 
 
