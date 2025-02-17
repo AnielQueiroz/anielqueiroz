@@ -1,10 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnielQueiroz&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I am a highly motivated and passionate full-stack developer with proficiency in JavaScript and experience in building robust and scalable solutions. I have a strong interest in tackling complex challenges that test my skills and allow me to expand my knowledge. I am constantly exploring new technologies and methodologies to enhance my professional and personal development.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
+On the front-end, I have expertise in modern frameworks like React.js and Next.js, creating intuitive and responsive interfaces. On the back-end, I work with Node.js and Express, and I am also delving into Spring Boot to develop efficient and secure APIs. Additionally, I am exploring mobile development with Flutter, aiming to create high-performance, cross-platform applications with exceptional user experiences.
+
+Currently, I am focused on improving my skills in Spring Boot for back-end development and Flutter for mobile development, with the goal of becoming an even more versatile professional capable of delivering complete and innovative solutions. Furthermore, I maintain a routine of studying algorithms and data structures, actively participating in platforms like LeetCode and HackerRank to strengthen my programming logic.
+
+I am driven by curiosity and a constant pursuit of learning, always committed to contributing to challenging projects that positively impact people's lives and turn ideas into reality.
 
 
 ### Working on: 🚀
